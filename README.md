@@ -42,3 +42,12 @@ Create a function that, given three numbers, returns the smallest of the three
 ### random-element.js
 
 Given an array, return one randomly selected element
+
+
+### value-in-array.js
+
+Given an array and a value:
+* Return true if the value exists in the array
+* Return false if it does not exist in the array
+* Do not use `indexOf` or `.find`
+
