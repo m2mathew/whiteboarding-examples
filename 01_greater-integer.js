@@ -3,7 +3,6 @@
  *
  */
 
-
 'use strict';
 
 function largestInt(a, b) {

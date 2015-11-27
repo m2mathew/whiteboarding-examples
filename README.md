@@ -49,3 +49,7 @@ Given an array and a value:
 * Return false if it does not exist in the array
 * Do not use `indexOf` or `.find`
 
+
+### largest-in-array.js
+
+Given an array of integers, return the largest integer
