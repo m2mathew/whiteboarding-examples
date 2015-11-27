@@ -37,3 +37,8 @@ Create a function that determines the absolute value of a given number
 ### smallest-integer.js
 
 Create a function that, given three numbers, returns the smallest of the three
+
+
+### random-element.js
+
+Given an array, return one randomly selected element
