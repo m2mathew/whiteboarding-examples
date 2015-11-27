@@ -9,8 +9,20 @@
 
 function helloName(name) {
 
+	var x = name.charAt(0).toLowerCase();
 
-
+	if(x >= 'a' && x <= 'l') {
+		console.log('Hello, ' + name);
+		return 'Hello, ' + name;
+	}
+	else if(x >= 'm' && x <= 'z') {
+		console.log('Goodbye, ' + name);
+		return 'Goodbye, ' + name;
+	}
+	else {
+		console.log('Nice try!');
+		return 'Nice try!';
+	}
 }
 
 helloName('Isaac');  // "Hello, Isaac"
