@@ -32,3 +32,5 @@ helloName('Michael');  // "Goodbye, Michael"
 helloName('Chewie');  // "Hello, Chewie"
 
 helloName('Vader');  // "Goodbye, Vader"
+
+helloName('1LifeToLive');  // "Nice try!"

@@ -9,7 +9,7 @@ function largestInt (a, b) {
 
 	if(typeof(a) !== 'number' || typeof(b) !== 'number') {
 		console.log('Please enter two numbers');
-		return;
+		return 'Please enter two numbers';
 	}
 
 	if(a > b) {
