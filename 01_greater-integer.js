@@ -3,9 +3,10 @@
  *
  */
 
+
 'use strict';
 
-function largestInt (a, b) {
+function largestInt(a, b) {
 
 	if(typeof(a) !== 'number' || typeof(b) !== 'number') {
 		console.log('Please enter two numbers');
