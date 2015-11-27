@@ -1,6 +1,8 @@
 # Whiteboarding Problems
 
-Whiteboarding problems from The Iron Yard-Austin
+Whiteboarding problems from The Iron Yard-Austin Front End Engineering class
+
+October-November 2015
 
 
 ### greater-integer.js
@@ -12,9 +14,9 @@ Create a function that, given two integers, returns the greater of the two
 
 Create a function that takes a name and display "hello" plus that name
 
-  Display "hello" plus that name if the name begins with "A-L"
+Display "hello" plus that name if the name begins with "A-L"
 
-  Display "goodbye" plus that name if the name begins with "M-Z"
+Display "goodbye" plus that name if the name begins with "M-Z"
 
 
 ### dice-roll.js
