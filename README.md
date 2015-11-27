@@ -28,3 +28,12 @@ Create a function "dice" that will return a roll of 2 dice between 1 & 6
 
 Given a month number, return the name of the month
 
+
+### absolute-value.js
+
+Create a function that determines the absolute value of a given number
+
+
+### smallest-integer.js
+
+Create a function that, given three numbers, returns the smallest of the three
