@@ -5,3 +5,23 @@
  */
 
 'use strict';
+
+function answerMe() {
+
+	do {
+		var answer = window.prompt('Is JavaScript gnarly or what?');
+		answer.toLowerCase();
+	} while(answer !== 'y' || answer !== 'yes' || answer !== 'n' || answer !== 'no');
+
+	if(answer === 'yes' || answer === 'y') {
+		answer = 'yes';
+	}
+	else {
+		answer = 'no';
+	}
+
+	console.log(answer);
+	return answer;
+}
+
+answerMe();
